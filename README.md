@@ -1,7 +1,7 @@
 # Code-Collab
 ## Description
 **Code-Collab** is a realtime code sync website. Multiple users can connect to the room and can use the code editor.Users can code in various languages. There is a chat feature to help users communicate easily. 
-* [Website link](https://colab-frontend.vercel.app/)
+* [Website link](https://code-collab123.onrender.com)
 * [Demo video](https://youtu.be/IJ2_QxI5HiE)
 ## Technology Stack
 1. React 
