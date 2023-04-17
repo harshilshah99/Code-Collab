@@ -26,7 +26,7 @@ Thus, we have developed ***CodeCollab***, a web solution that allows multiple us
   - Chat with the users in the room
    
 ###  🤖Resources
-- [Demo Video](https://youtu.be/misKkTp2Meo)
+- [Demo Video](https://youtu.be/pjoYiG4mrSA)
 - [GitHub Repository](https://github.com/harshilshah99/Code-Collab)
 - [Website Link](https://code-collab123.onrender.com)
 
